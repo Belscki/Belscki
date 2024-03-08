@@ -36,11 +36,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Belscki/Belscki/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
