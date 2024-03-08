@@ -1,4 +1,4 @@
-<p align="left">Olá, Me Chamo Arthur Bergamascki!</p>
+<p align="center">Olá, Me Chamo Arthur Bergamascki!</p>
 
 ###
 
