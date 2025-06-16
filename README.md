@@ -37,7 +37,7 @@
 
 ### 📫 Fale comigo
 
-- Email: belscki.dev@gmail.com  
+- Email: `ao.bergamascki@gmail.com`  
 - LinkedIn: [linkedin.com/in/belscki](https://www.linkedin.com/in/arthur-bergamascki-7bba7b2aa/)  
 - Discord: `belscki`  
 - GitHub: [@belscki](https://github.com/Belscki)
