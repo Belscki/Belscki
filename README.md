@@ -13,7 +13,7 @@
 - ⚙️ Backend: Node.js, Express, PHP (Slim, puro)
 - 🗄️ Banco de Dados: PostgreSQL, MariaDB/MySQL
 - 🎨 Frontend: HTML5, Tailwind CSS, jQuery
-- 📡 Integrações: APIs REST, SMTP, Validação de CNPJ/CPF, Email com protocolo
+- 📡 Integrações: APIs REST, SMTP, Validação de CNPJ/CPF
 - ☁️ Hospedagem: Railway, Vercel, Render
 
 ---
