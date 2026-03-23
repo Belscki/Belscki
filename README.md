@@ -16,12 +16,6 @@
 - 📡 Integrações: APIs REST, SMTP, Validação de CNPJ/CPF
 - ☁️ Hospedagem: Railway, Vercel, Render
 
----
-
-<img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Belscki&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
-
----
-
 ### 📌 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
